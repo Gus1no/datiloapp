@@ -1,3 +1,5 @@
+**Website**: [datilo.app](https://datilo.app)
+
 # Datilo.app - Local CSV & XLSX Database Viewer
 
 ## Complete Local Processing & Privacy
@@ -174,9 +176,6 @@ We welcome bug reports, feature requests, and feedback!
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Gus1no/datiloapp/issues)
 - **Discussions**: [Community support](https://github.com/Gus1no/datiloapp/discussions)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
